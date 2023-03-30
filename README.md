@@ -32,3 +32,12 @@
 #### `new discovery of Bereshit`:
   https://davidson.weizmann.ac.il/online/sciencepanorama/גילויים-חדשים-על-בראשית
 
+
+# Visual Data:
+![image](https://user-images.githubusercontent.com/75199660/228881867-256d3806-2139-4c9a-971c-790c9f5b654c.png)
+![image](https://user-images.githubusercontent.com/75199660/228881978-c1b0f991-eab9-4d7a-8fcd-d33bc1b415df.png)
+![image](https://user-images.githubusercontent.com/75199660/228882070-535c5452-e860-4e22-92f0-29549ddb6255.png)
+![image](https://user-images.githubusercontent.com/75199660/228882894-b7d341e4-b6ca-48ab-b4fa-e8c91225a715.png)
+
+
+
